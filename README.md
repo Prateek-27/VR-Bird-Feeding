@@ -20,7 +20,7 @@ As suggested I reused the subsection of the campus I build for assignment 1 (Sub
 
 ![fruits](screenshots/ss2.png)
 
-**Hot Air Balloon:** I have a hot air balloon which is used to teleport across the map. I added a few new scripts to the prefab I used for assignment 1.
+**Hot Air Balloon:** I have a hot air balloon which is used to teleport across the map. I added a few new scripts to the prefab I used for assignment.
 
 ![balloon](screenshots/ss3.png)
 
