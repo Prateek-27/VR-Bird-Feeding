@@ -3,6 +3,10 @@
 
 **Name:** Prateek Sengar  
 
+[Project Download Link](https://drive.google.com/file/d/11pRtANi568CsP5q6QAIDeEfBVpYP8L7_/view?usp=drive_link) 
+
+[Project Demo Video](https://youtu.be/GfBhAsTzVvw) 
+
 ---
 
 In this assignment, I implemented a 3DUI app that lets me explore the campus I build for assignment 1 by using a controller and feed fruits to birds. Additionally, I also have access to two interfaces: one that activates a minimap (World In Miniature - WIM) to indicate their position on campus and another that enables me to view the preferred fruits of each bird. Finally, the WIM must include the ability to teleport. I was able to implement all of these features and some extra features. 
