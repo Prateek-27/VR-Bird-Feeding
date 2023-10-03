@@ -1,5 +1,5 @@
 # Virtual Reality
-## Assignment 2: 3D User Interface
+## 3D User Interface
 
 **Name:** Prateek Sengar  
 
